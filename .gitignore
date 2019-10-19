@@ -1,0 +1,4 @@
+*.db
+schemas
+uploads/*
+media/*
