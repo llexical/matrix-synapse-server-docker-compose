@@ -7,6 +7,6 @@ This is a docker compose setup with a synapse-data file already setup with some 
 - Docker
 
 ## Setup
-- `make dev-run`
+- `make dev-run` or `docker-compose up` if you do not have make.
 
 Refer to `make help` for other options.
